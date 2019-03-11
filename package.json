@@ -1,0 +1,16 @@
+{
+  "name": "zrc20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alessandro Manfredi",
+  "license": "MIT",
+  "dependencies": {
+    "@zilliqa-js/zilliqa": "^0.5.2",
+    "tslib": "^1.9.3"
+  }
+}
